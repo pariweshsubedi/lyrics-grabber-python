@@ -14,7 +14,7 @@ Python Script to grab lyrics for songs in your local directory.
   
   Fetch lyrics of the song specified under filename
 
-<h5> pyhtin get_lyrics.py </h5>
+<h5> python get_lyrics.py </h5>
 
   Fetch lyrics for any songs present in the working directory
   
