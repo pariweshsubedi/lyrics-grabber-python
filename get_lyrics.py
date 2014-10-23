@@ -48,7 +48,7 @@ def saving(artist, title, lyrics):
 	f.write("\n".join(lyrics).strip())
 	f.close()
 
-print len(sys.argv)
+
 if len(sys.argv)==1:					#for the working directory
 	path = os.path.abspath(__file__)
 	print path
